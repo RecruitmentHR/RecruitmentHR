@@ -6,7 +6,8 @@
 - Android Developer - https://toghr.com/jobs/lowongan-android-developer-jakarta/
 - Front end Developer - https://toghr.com/jobs/lowongan-front-end-developer/
 - You can find more jobs at https://toghr.com/jobs/
-- 
+- Konsultan HR IT - https://toghr.com/perusahaan-konsultan-human-resource-it-terbaik-di-jakarta/
+- Konsultan HR IT Jakarta - https://toghr.com/perusahaan-konsultan-human-resource-it-terbaik-di-jakarta/
 
 <!---
 RecruitmentHR/RecruitmentHR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
